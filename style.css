@@ -1,0 +1,97 @@
+#nav{
+	padding: 10px;
+	text-align: center;
+	background-color: #EE19EA;
+	overflow: hidden;
+	position: fixed;
+	top: 0;
+	width:1250px;
+}
+#nav ul li{
+	display: inline;
+}
+#nav ul li a{
+	text-decoration: none;
+	color: #1949EE;
+	font-size: 25px;
+	padding: 0 15px;
+}
+#nav ul li a:hover{
+	color: white;
+}
+h1{
+	text-align: center;
+}
+#btn{
+	background-color: blue;
+	border: 1px solid brown;
+	border-radius: 45px;
+	padding: 10px 20px;
+	font-size: 20px;
+	color: white;
+}
+span{
+	color: #0F1992;
+}
+#footer{
+	background-color: #09226B;
+	text-align: center;
+	padding: 10px;
+	margin-top: 10px;
+}
+#footer p{
+	color: white;
+}
+#scientific h2{
+	background-color: #ADBEC2;
+	margin-top: 0;
+
+}
+
+#img{
+	padding-top: 0;
+	padding-left: 230px;
+	float: left;
+}
+#scientific{
+	float: left;
+	padding-left: 200px;
+}
+
+
+#over{
+	text-align: center;
+	padding-top: 10px;
+}
+#orchid{
+	padding: 90px;
+}
+
+.clear{
+	clear: both;
+}
+#planter{	
+	float: left;
+}
+#planterabout{
+	padding-left: 300px;
+	margin-top: 50px;
+}
+#contact{
+	text-align: center;
+}
+#address{
+	float: left;
+	padding-left: 400px;
+}
+#content{
+	float: left;
+	padding-left: 100px;
+}
+#p{
+	white-space: normal;
+	font-size: 20px;
+	width: auto;
+	word-spacing: 7px;
+	word-wrap: 10px;
+}
